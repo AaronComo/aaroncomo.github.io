@@ -29,7 +29,7 @@ To the best of our knowledge, the majority of public DeepFake datasets consist s
 
 We will open-source upon publication soon.
 
-<div align=center><img src="/assets/img/2024-02-02-lips-are-lying.assets/dataset.png" width="300"></div>
+<div align=center><img src="/assets/img/2024-02-02-lips-are-lying.assets/dataset.png" width="300" alt=""></div>
 
 
 
