@@ -14,9 +14,11 @@ My research interest lies in the Security and Privacy of Artificial Intelligence
 ## Academic Research
 
 [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-syncing DeepFakes](https://arxiv.org/abs/2401.15668)
+
 **Weifeng Liu$^\dagger$**, Tianyi She$^\dagger$, Jiawei Liu, Run Wang$^*$, Dongyu Yao, Ziyou Liang
 
-[Let Real Images be as a Judger, Spotting Fake Images Synthesized with Generative Models](https://aaroncomo.github.io/about)             
+[Let Real Images be as a Judger, Spotting Fake Images Synthesized with Generative Models](https://aaroncomo.github.io/about)
+
 Ziyou Liang, Run Wang$^*$, **Weifeng Liu**, Yuwang Z, Yangw Y, Lina Wang, Xuanyuana Xing
 
 
@@ -61,7 +63,7 @@ Ziyou Liang, Run Wang$^*$, **Weifeng Liu**, Yuwang Z, Yangw Y, Lina Wang, Xuanyu
 
 - Proficient in using C, C++, Python, and Java.
 - Proficient in Android development.
-- Proficient in Image, Audio, Video Processing and Post-production Editing.
+- Master at Image, Audio, Video Processing and Post-production Editing.
 
 
 
