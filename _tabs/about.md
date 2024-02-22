@@ -49,8 +49,8 @@ Ziyou Liang, Run Wang$^*$, **Weifeng Liu**, Yuwang Z, Yangw Y, Lina Wang, Xuanyu
 ## Project Experiences
 
 - Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-syncing DeepFakes (LipFD). [[⤤]](https://github.com/AaronComo/LipFD)
-- Backend Lead of the Wuhan University under the National Key Research and Development Program for Young Scientists. [[⤤]](https://github.com/AaronComo/AISecurity)
 - "艺境梦旅: 壁画之韵" 一站式中华文化 IP 项目. [[⤤]](https://github.com/AaronComo/Escape)
+- Backend Lead of the Wuhan University under the National Key Research and Development Program for Young Scientists. [[⤤]](https://github.com/AaronComo/AISecurity)
 - Orange OS: Cross-compiling Experimental Microkernel Operating System from aarch64 to x86. [[⤤]](https://github.com/AaronComo/Orange-OS)
 - Deep-Learning-Based Mural Restoration System. [[⤤]](https://github.com/AaronComo/MGN)
 - High-Precision Large Integer Arithmetic System. [[⤤]](https://github.com/AaronComo/large-number-arithmetic-system)
