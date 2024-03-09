@@ -11,6 +11,10 @@ tail_includes:
 
 {% include lang.html %}
 
+{% if site.safa_only %}
+    {% include reject.html %}
+{% endif %}
+
 <article class="px-1">
   <header>
     <h1 data-toc-skip>{{ page.title }}</h1>
