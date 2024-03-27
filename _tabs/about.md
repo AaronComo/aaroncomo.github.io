@@ -19,7 +19,7 @@ My research interest lies in the Security and Privacy of Artificial Intelligence
 
 [Let Real Images be as a Judger, Spotting Fake Images Synthesized with Generative Models](https://arxiv.org/abs/2403.16513)
 
-Ziyou Liang, Run Wang$^*$, **Weifeng Liu**, Yuwang Z, Yangw Y, Lina Wang, Xuanyuana Xing
+Ziyou Liang, Run Wang$^*$, **Weifeng Liu**, Yuyang Zhang, Wenyuan Yang, Lina Wang,Xingkai wang
 
 
 
